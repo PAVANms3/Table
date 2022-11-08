@@ -1,0 +1,3 @@
+[submodule "Django-CRUD/Django-CRUD/employee_project"]
+	path = Django-CRUD/Django-CRUD/employee_project
+	url = https://github.com/PAVANms3/LEO_AI
